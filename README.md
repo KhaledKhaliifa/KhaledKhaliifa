@@ -3,7 +3,7 @@
 
 - I’m currently working on **multiple Javacript projects**
 
-- I’m currently learning **HTML, JS, CSS, NodeJS and React**
+- I’m currently learning **Machine Learning/Deep Learning**
 
 - I’m looking to collaborate on **open source frontend projects**
 
@@ -11,7 +11,7 @@
 
 - How to reach me **khaledmedhat64@gmail.com**
 
-- PS **I'm a big gaming fan!**
+- PS **I'm a huge gamer!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
