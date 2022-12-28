@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Khaled!</h1>
 <h3 align="center">A passionate software engineer from Egypt</h3>
 
-- I’m currently working on **multiple Javacript projects**
+- I’m currently working on **Computer Vision and Deep Learning projects**
 
 - I’m currently learning **Machine Learning/Deep Learning**
 
