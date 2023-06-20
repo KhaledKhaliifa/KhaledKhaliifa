@@ -5,7 +5,7 @@
 
 - I’m currently learning **Machine Learning/Deep Learning**
 
-- I’m looking to collaborate on **open source frontend projects**
+- I’m looking to collaborate on **open source python libraries**
 
 - Ask me about **Data Structures and Machine Learning**
 
